@@ -1,4 +1,4 @@
 {
-    "chatbox": false,
-    "naskah": false
+    "chatbox": true,
+    "naskah": true
 }
