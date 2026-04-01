@@ -1,6 +1,6 @@
 {
     "chatbox": true,
     "naskah": true,
-    "searchResultThumbnail": false,
+    "searchResultThumbnail": true,
     "searchResultActions": false
 }
