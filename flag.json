@@ -2,5 +2,5 @@
     "chatbox": true,
     "naskah": true,
     "searchResultThumbnail": false,
-    "searchResultActions": false
+    "searchResultActions": true
 }
