@@ -4,5 +4,8 @@
     "searchResultThumbnail": false,
     "searchResultActions": true,
     "documentStats": true,
-    "documentStatsDisplay": "abbreviated"
+    "documentStatsDisplay": "abbreviated",
+    "documentStats": true,
+    "documentStatsDisplay": "abbreviated",
+    "documentStatsMobile": false
 }
