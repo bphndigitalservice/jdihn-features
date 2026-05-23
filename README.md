@@ -1,0 +1,9 @@
+{
+    "chatbox": true,
+    "naskah": true,
+    "searchResultThumbnail": false,
+    "searchResultActions": true,
+    "documentStats": true,
+    "documentStatsDisplay": "abbreviated", //or locale
+    "documentStatsMobile": false
+}
