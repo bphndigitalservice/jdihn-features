@@ -6,5 +6,5 @@
     "documentStats": true,
     "documentStatsDisplay": "abbreviated",
     "documentStatsMobile": false,
-    "useSearchApi": true
+    "useSearchApi": false
 }
