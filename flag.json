@@ -6,5 +6,6 @@
     "documentStats": true,
     "documentStatsDisplay": "abbreviated",
     "documentStatsMobile": false,
-    "useSearchApi": false
+    "useSearchApi": false,
+    "literasiS3PresignedUrl": true
 }
