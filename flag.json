@@ -7,5 +7,6 @@
     "documentStatsDisplay": "abbreviated",
     "documentStatsMobile": false,
     "useSearchApi": false,
-    "literasiS3PresignedUrl": true
+    "literasiS3PresignedUrl": true,
+    "pdfProxy": false
 }
